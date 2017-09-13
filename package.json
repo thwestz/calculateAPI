@@ -1,0 +1,11 @@
+{
+  "name": "caculate api",
+  "version": "1.0.0",
+  "description": "Homework 4 Web Technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaiwat Wongchuen 57102011043",
+  "license": "ISC"
+}
